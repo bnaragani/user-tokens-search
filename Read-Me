@@ -1,0 +1,13 @@
+##
+##Instructions to run user-token-search process
+##
+
+
+1.Run gradle clean and build to build the jar file
+
+2.Build the jar from command line using the below commands
+    gradlew clean
+    gradlew build
+
+3. Run the jar file from command prompt
+ Eg: java -jar build/libs/user-token-search-1.0-SNAPSHOT.jar
